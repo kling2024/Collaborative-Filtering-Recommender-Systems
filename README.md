@@ -647,8 +647,3 @@ movieList_df.loc[ix[:300]].loc[filter].sort_values("mean rating", ascending=Fals
 </table>
 </div>
 
-# GitHub and Medium
-
-**GitHub Link** [**here**](https://github.com/kling2024?tab=repositories)
-
-**Medium Link** [**here**](https://medium.com/@kling_7476)
