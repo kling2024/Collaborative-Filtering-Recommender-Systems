@@ -114,7 +114,7 @@ The collaborative filtering algorithm in the setting of movie recommendations co
 
 I completed the code in cofiCostFunc to compute the cost function for collaborative filtering. 
 
-### 4.1 Collaborative filtering cost function
+### Collaborative filtering cost function
 
 The collaborative filtering cost function is given by
 $$J({\mathbf{x}^{(0)},...,\mathbf{x}^{(n_m-1)},\mathbf{w}^{(0)},b^{(0)},...,\mathbf{w}^{(n_u-1)},b^{(n_u-1)}})= \left[ \frac{1}{2}\sum_{(i,j):r(i,j)=1}(\mathbf{w}^{(j)} \cdot \mathbf{x}^{(i)} + b^{(j)} - y^{(i,j)})^2 \right]
